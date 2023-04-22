@@ -1,3 +1,2 @@
-pytransform
 termcolor
 pystyle
